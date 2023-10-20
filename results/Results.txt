@@ -1,0 +1,49 @@
+3 Patterns:
+Kruskal Heuristic found 761 solutions,
+Basic Prim Heuristic found 942 solutions,
+Modified Prim Heuristic found 942 solutions
+out of a total of 942 zero-feasible solutions
+out of a total of 985 solutions
+out of a total of 1000 tests.
+
+4 Patterns:
+Kruskal Heuristic found 535 solutions,
+Basic Prim Heuristic found 806 solutions,
+Modified Prim Heuristic found 821 solutions
+out of a total of 821 zero-feasible solutions
+out of a total of 1000 solutions
+out of a total of 1000 tests.
+
+5 Patterns:
+Kruskal Heuristic found 392 solutions,
+Basic Prim Heuristic found 664 solutions,
+Modified Prim Heuristic found 706 solutions
+out of a total of 713 zero-feasible solutions
+out of a total of 921 solutions
+out of a total of 1000 tests.
+
+6 Patterns:
+Kruskal Heuristic found 229 solutions,
+Basic Prim Heuristic found 464 solutions,
+Modified Prim Heuristic found 537 solutions
+out of a total of 544 zero-feasible solutions
+out of a total of 689 solutions
+out of a total of 1000 tests.
+
+7 Patterns:
+Kruskal Heuristic found 153 solutions,
+Basic Prim Heuristic found 364 solutions,
+Modified Prim Heuristic found 445 solutions
+out of a total of 455 zero-feasible solutions
+out of a total of 497 solutions
+out of a total of 1000 tests.
+
+8 Patterns:
+Kruskal Heuristic found 78 solutions,
+Basic Prim Heuristic found 228 solutions,
+Modified Prim Heuristic found 325 solutions
+out of a total of 341 zero-feasible solutions
+out of a total of 364 solutions
+out of a total of 1000 tests.
+
+9 Patterns:

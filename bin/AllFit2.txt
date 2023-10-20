@@ -1,0 +1,5 @@
+With 10 patterns per set, 
+Prim (Contiguous Order) (Smallest Start) found 3083 out of 10000 tests.
+Kruskal (Contiguous Order) found 2043 out of 10000 tests.
+Cycle (Prim Order) (Both Smallest Starts) found 9866 out of 10000 tests.
+Gurobi (10 min Limit) found 1 correct out of 9969 solutions out of 10000 tests.

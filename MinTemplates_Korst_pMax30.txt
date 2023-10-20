@@ -1,0 +1,181 @@
+Solution Key: <NumPatterns:Set#:Heuristic:NumOfTemplates:RelativeDifferenceInLowerBound:Templates{0,0,0}:Time(nanosec)>
+Sets of 10 patterns:
+Kruskal fit 10 patterns on an average of 9.01 templates in an average of 0 seconds. It exceeded the lower bound by an average of 0.2%.
+Iterative Prim fit 10 patterns on an average of 9.01 templates in an average of 0 seconds. It exceeded the lower bound by an average of 0.2%.
+Bin Packer (Prim) (Level 3) fit 10 patterns on an average of 9.01 templates in an average of 0 seconds. It exceeded the lower bound by an average of 0.2%.
+Bin Packer (fifo) (Level 0) fit 10 patterns on an average of 9.01 templates in an average of 0 seconds. It exceeded the lower bound by an average of 0.2%.
+Bin Packer (Floyd) (Level 0) fit 10 patterns on an average of 9.01 templates in an average of 0 seconds. It exceeded the lower bound by an average of 0.2%.
+Bin Packer (Empty Space) (Level 0) fit 10 patterns on an average of 9.01 templates in an average of 0 seconds. It exceeded the lower bound by an average of 0.2%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sets of 20 patterns:
+Kruskal fit 20 patterns on an average of 16.83 templates in an average of 0 seconds. It exceeded the lower bound by an average of 0.7422942253824606%.
+Iterative Prim fit 20 patterns on an average of 16.82 templates in an average of 0 seconds. It exceeded the lower bound by an average of 0.6708656539538892%.
+Bin Packer (Prim) (Level 3) fit 20 patterns on an average of 16.81 templates in an average of 0 seconds. It exceeded the lower bound by an average of 0.5994370825253178%.
+Bin Packer (fifo) (Level 0) fit 20 patterns on an average of 16.82 templates in an average of 0 seconds. It exceeded the lower bound by an average of 0.6582606119370825%.
+Bin Packer (Floyd) (Level 0) fit 20 patterns on an average of 16.81 templates in an average of 0 seconds. It exceeded the lower bound by an average of 0.5994370825253178%.
+Bin Packer (Empty Space) (Level 0) fit 20 patterns on an average of 16.81 templates in an average of 0 seconds. It exceeded the lower bound by an average of 0.5994370825253178%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sets of 30 patterns:
+Kruskal fit 30 patterns on an average of 24.36 templates in an average of 0 seconds. It exceeded the lower bound by an average of 1.3394302620847245%.
+Iterative Prim fit 30 patterns on an average of 24.29 templates in an average of 0 seconds. It exceeded the lower bound by an average of 1.016697045644414%.
+Bin Packer (Prim) (Level 3) fit 30 patterns on an average of 24.27 templates in an average of 0 seconds. It exceeded the lower bound by an average of 0.923623452570821%.
+Bin Packer (fifo) (Level 0) fit 30 patterns on an average of 24.29 templates in an average of 0 seconds. It exceeded the lower bound by an average of 1.010744664692033%.
+Bin Packer (Floyd) (Level 0) fit 30 patterns on an average of 24.27 templates in an average of 0 seconds. It exceeded the lower bound by an average of 0.923623452570821%.
+Bin Packer (Empty Space) (Level 0) fit 30 patterns on an average of 24.3 templates in an average of 0 seconds. It exceeded the lower bound by an average of 1.0595883648515227%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sets of 40 patterns:
+Kruskal fit 40 patterns on an average of 31.16 templates in an average of 0 seconds. It exceeded the lower bound by an average of 1.9991155737597048%.
+Iterative Prim fit 40 patterns on an average of 31.08 templates in an average of 0 seconds. It exceeded the lower bound by an average of 1.702534777274848%.
+Bin Packer (Prim) (Level 3) fit 40 patterns on an average of 31.04 templates in an average of 0 seconds. It exceeded the lower bound by an average of 1.5660824156764914%.
+Bin Packer (fifo) (Level 0) fit 40 patterns on an average of 31.09 templates in an average of 0 seconds. It exceeded the lower bound by an average of 1.7284171085451105%.
+Bin Packer (Floyd) (Level 0) fit 40 patterns on an average of 31.03 templates in an average of 0 seconds. It exceeded the lower bound by an average of 1.5315996570558013%.
+Bin Packer (Empty Space) (Level 0) fit 40 patterns on an average of 31.1 templates in an average of 0 seconds. It exceeded the lower bound by an average of 1.7676036164816187%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sets of 50 patterns:
+Kruskal fit 50 patterns on an average of 38.13 templates in an average of 0 seconds. It exceeded the lower bound by an average of 2.3832729207780345%.
+Iterative Prim fit 50 patterns on an average of 37.91 templates in an average of 0 seconds. It exceeded the lower bound by an average of 1.740977586470442%.
+Bin Packer (Prim) (Level 3) fit 50 patterns on an average of 37.9 templates in an average of 0 seconds. It exceeded the lower bound by an average of 1.7141582218245055%.
+Bin Packer (fifo) (Level 0) fit 50 patterns on an average of 37.95 templates in an average of 0 seconds. It exceeded the lower bound by an average of 1.8536076097259049%.
+Bin Packer (Floyd) (Level 0) fit 50 patterns on an average of 37.89 templates in an average of 0 seconds. It exceeded the lower bound by an average of 1.687220780181181%.
+Bin Packer (Empty Space) (Level 0) fit 50 patterns on an average of 37.94 templates in an average of 0 seconds. It exceeded the lower bound by an average of 1.8197981585865441%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sets of 60 patterns:
+Kruskal fit 60 patterns on an average of 45.04 templates in an average of 0 seconds. It exceeded the lower bound by an average of 2.59507232376459%.
+Iterative Prim fit 60 patterns on an average of 44.86 templates in an average of 0 seconds. It exceeded the lower bound by an average of 2.168038478590963%.
+Bin Packer (Prim) (Level 3) fit 60 patterns on an average of 44.67 templates in an average of 0 seconds. It exceeded the lower bound by an average of 1.7079353609073693%.
+Bin Packer (fifo) (Level 0) fit 60 patterns on an average of 44.71 templates in an average of 0 seconds. It exceeded the lower bound by an average of 1.8015834317275519%.
+Bin Packer (Floyd) (Level 0) fit 60 patterns on an average of 44.62 templates in an average of 0 seconds. It exceeded the lower bound by an average of 1.5918564916206521%.
+Bin Packer (Empty Space) (Level 0) fit 60 patterns on an average of 44.7 templates in an average of 0 seconds. It exceeded the lower bound by an average of 1.7783499258239557%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sets of 70 patterns:
+Kruskal fit 70 patterns on an average of 51.58 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.6611856357489496%.
+Iterative Prim fit 70 patterns on an average of 51.29 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.06368303890962%.
+Bin Packer (Prim) (Level 3) fit 70 patterns on an average of 50.91 templates in an average of 0 seconds. It exceeded the lower bound by an average of 2.256542968259246%.
+Bin Packer (fifo) (Level 0) fit 70 patterns on an average of 50.94 templates in an average of 0 seconds. It exceeded the lower bound by an average of 2.313049758570384%.
+Bin Packer (Floyd) (Level 0) fit 70 patterns on an average of 50.9 templates in an average of 0 seconds. It exceeded the lower bound by an average of 2.236769246629495%.
+Bin Packer (Empty Space) (Level 0) fit 70 patterns on an average of 50.94 templates in an average of 0 seconds. It exceeded the lower bound by an average of 2.319649629363404%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sets of 80 patterns:
+Kruskal fit 80 patterns on an average of 57.8 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.3350305199615855%.
+Iterative Prim fit 80 patterns on an average of 57.17 templates in an average of 0 seconds. It exceeded the lower bound by an average of 4.142694086635282%.
+Bin Packer (Prim) (Level 3) fit 80 patterns on an average of 56.62 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.107066422804682%.
+Bin Packer (fifo) (Level 0) fit 80 patterns on an average of 56.69 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.2357138132317673%.
+Bin Packer (Floyd) (Level 0) fit 80 patterns on an average of 56.63 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.129705912944172%.
+Bin Packer (Empty Space) (Level 0) fit 80 patterns on an average of 56.71 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.276352433473601%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sets of 90 patterns:
+Kruskal fit 90 patterns on an average of 64.85 templates in an average of 0 seconds. It exceeded the lower bound by an average of 4.945494591605671%.
+Iterative Prim fit 90 patterns on an average of 64.24 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.895495889323028%.
+Bin Packer (Prim) (Level 3) fit 90 patterns on an average of 63.74 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.047872607376456%.
+Bin Packer (fifo) (Level 0) fit 90 patterns on an average of 63.83 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.195729615536359%.
+Bin Packer (Floyd) (Level 0) fit 90 patterns on an average of 63.79 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.1296997688565384%.
+Bin Packer (Empty Space) (Level 0) fit 90 patterns on an average of 63.85 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.223028877317338%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sets of 100 patterns:
+Kruskal fit 100 patterns on an average of 71.62 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.600725358779722%.
+Iterative Prim fit 100 patterns on an average of 70.89 templates in an average of 0 seconds. It exceeded the lower bound by an average of 4.490773741099204%.
+Bin Packer (Prim) (Level 3) fit 100 patterns on an average of 70.17 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.36873792616957%.
+Bin Packer (fifo) (Level 0) fit 100 patterns on an average of 70.24 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.482632520650336%.
+Bin Packer (Floyd) (Level 0) fit 100 patterns on an average of 70.17 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.367880262410979%.
+Bin Packer (Empty Space) (Level 0) fit 100 patterns on an average of 70.23 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.4673112171914493%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sets of 110 patterns:
+Kruskal fit 110 patterns on an average of 77.95 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.723225064448898%.
+Iterative Prim fit 110 patterns on an average of 77.44 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.005891107519843%.
+Bin Packer (Prim) (Level 3) fit 110 patterns on an average of 76.5 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.6869753499513833%.
+Bin Packer (fifo) (Level 0) fit 110 patterns on an average of 76.58 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.8010222106081373%.
+Bin Packer (Floyd) (Level 0) fit 110 patterns on an average of 76.49 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.674692002271624%.
+Bin Packer (Empty Space) (Level 0) fit 110 patterns on an average of 76.55 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.7585802665577406%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sets of 120 patterns:
+Kruskal fit 120 patterns on an average of 84.69 templates in an average of 0 seconds. It exceeded the lower bound by an average of 7.130206632657191%.
+Iterative Prim fit 120 patterns on an average of 83.64 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.769128676980816%.
+Bin Packer (Prim) (Level 3) fit 120 patterns on an average of 82.45 templates in an average of 0 seconds. It exceeded the lower bound by an average of 4.23167357659377%.
+Bin Packer (fifo) (Level 0) fit 120 patterns on an average of 82.56 templates in an average of 0 seconds. It exceeded the lower bound by an average of 4.374033998241542%.
+Bin Packer (Floyd) (Level 0) fit 120 patterns on an average of 82.44 templates in an average of 0 seconds. It exceeded the lower bound by an average of 4.217159864682211%.
+Bin Packer (Empty Space) (Level 0) fit 120 patterns on an average of 82.51 templates in an average of 0 seconds. It exceeded the lower bound by an average of 4.310859638351836%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sets of 130 patterns:
+Kruskal fit 130 patterns on an average of 90.8 templates in an average of 0 seconds. It exceeded the lower bound by an average of 6.819289774449319%.
+Iterative Prim fit 130 patterns on an average of 89.75 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.545040603097985%.
+Bin Packer (Prim) (Level 3) fit 130 patterns on an average of 88.44 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.974385397228664%.
+Bin Packer (fifo) (Level 0) fit 130 patterns on an average of 88.53 templates in an average of 0 seconds. It exceeded the lower bound by an average of 4.077828172794127%.
+Bin Packer (Floyd) (Level 0) fit 130 patterns on an average of 88.4 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.923651748508123%.
+Bin Packer (Empty Space) (Level 0) fit 130 patterns on an average of 88.44 templates in an average of 0 seconds. It exceeded the lower bound by an average of 3.9727767619914363%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sets of 140 patterns:
+Kruskal fit 140 patterns on an average of 97.84 templates in an average of 0 seconds. It exceeded the lower bound by an average of 8.458048251799553%.
+Iterative Prim fit 140 patterns on an average of 96.55 templates in an average of 0 seconds. It exceeded the lower bound by an average of 7.006416637133544%.
+Bin Packer (Prim) (Level 3) fit 140 patterns on an average of 94.7 templates in an average of 0 seconds. It exceeded the lower bound by an average of 4.904867387479386%.
+Bin Packer (fifo) (Level 0) fit 140 patterns on an average of 94.95 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.1828396728153185%.
+Bin Packer (Floyd) (Level 0) fit 140 patterns on an average of 94.72 templates in an average of 0 seconds. It exceeded the lower bound by an average of 4.9315875003553185%.
+Bin Packer (Empty Space) (Level 0) fit 140 patterns on an average of 94.81 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.029132769546826%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sets of 150 patterns:
+Kruskal fit 150 patterns on an average of 103.88 templates in an average of 0 seconds. It exceeded the lower bound by an average of 8.075934279616554%.
+Iterative Prim fit 150 patterns on an average of 102.67 templates in an average of 0 seconds. It exceeded the lower bound by an average of 6.787646730792284%.
+Bin Packer (Prim) (Level 3) fit 150 patterns on an average of 100.55 templates in an average of 0 seconds. It exceeded the lower bound by an average of 4.5431200373649805%.
+Bin Packer (fifo) (Level 0) fit 150 patterns on an average of 100.72 templates in an average of 0 seconds. It exceeded the lower bound by an average of 4.719038869380391%.
+Bin Packer (Floyd) (Level 0) fit 150 patterns on an average of 100.5 templates in an average of 0 seconds. It exceeded the lower bound by an average of 4.4879692115699745%.
+Bin Packer (Empty Space) (Level 0) fit 150 patterns on an average of 100.65 templates in an average of 0 seconds. It exceeded the lower bound by an average of 4.647376958144464%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sets of 160 patterns:
+Kruskal fit 160 patterns on an average of 110.39 templates in an average of 0 seconds. It exceeded the lower bound by an average of 8.913236735244505%.
+Iterative Prim fit 160 patterns on an average of 108.86 templates in an average of 0 seconds. It exceeded the lower bound by an average of 7.3729745582939845%.
+Bin Packer (Prim) (Level 3) fit 160 patterns on an average of 106.56 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.072316295194498%.
+Bin Packer (fifo) (Level 0) fit 160 patterns on an average of 106.72 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.234075754249819%.
+Bin Packer (Floyd) (Level 0) fit 160 patterns on an average of 106.57 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.0791004054325%.
+Bin Packer (Empty Space) (Level 0) fit 160 patterns on an average of 106.69 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.197154401777686%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sets of 170 patterns:
+Kruskal fit 170 patterns on an average of 117.49 templates in an average of 0 seconds. It exceeded the lower bound by an average of 9.276406580006443%.
+Iterative Prim fit 170 patterns on an average of 115.83 templates in an average of 0 seconds. It exceeded the lower bound by an average of 7.718590727735485%.
+Bin Packer (Prim) (Level 3) fit 170 patterns on an average of 113.36 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.3886323087208226%.
+Bin Packer (fifo) (Level 0) fit 170 patterns on an average of 113.51 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.53102262726471%.
+Bin Packer (Floyd) (Level 0) fit 170 patterns on an average of 113.33 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.360979409664591%.
+Bin Packer (Empty Space) (Level 0) fit 170 patterns on an average of 113.39 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.418692656900511%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sets of 180 patterns:
+Kruskal fit 180 patterns on an average of 124.16 templates in an average of 0 seconds. It exceeded the lower bound by an average of 9.606001837997562%.
+Iterative Prim fit 180 patterns on an average of 122.45 templates in an average of 0 seconds. It exceeded the lower bound by an average of 8.079011861390892%.
+Bin Packer (Prim) (Level 3) fit 180 patterns on an average of 119.56 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.49146250524806%.
+Bin Packer (fifo) (Level 0) fit 180 patterns on an average of 119.73 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.645711904069218%.
+Bin Packer (Floyd) (Level 0) fit 180 patterns on an average of 119.52 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.461222092628312%.
+Bin Packer (Empty Space) (Level 0) fit 180 patterns on an average of 119.62 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.547907133940288%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sets of 190 patterns:
+Kruskal fit 190 patterns on an average of 130.2 templates in an average of 0 seconds. It exceeded the lower bound by an average of 9.769458982419735%.
+Iterative Prim fit 190 patterns on an average of 128.26 templates in an average of 0 seconds. It exceeded the lower bound by an average of 8.118657150005546%.
+Bin Packer (Prim) (Level 3) fit 190 patterns on an average of 125.08 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.406341762845229%.
+Bin Packer (fifo) (Level 0) fit 190 patterns on an average of 125.16 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.476004891560414%.
+Bin Packer (Floyd) (Level 0) fit 190 patterns on an average of 125.07 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.397115034122945%.
+Bin Packer (Empty Space) (Level 0) fit 190 patterns on an average of 125.21 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.521599952509156%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Sets of 200 patterns:
+Kruskal fit 200 patterns on an average of 137.15 templates in an average of 0 seconds. It exceeded the lower bound by an average of 9.81788315750697%.
+Iterative Prim fit 200 patterns on an average of 135.23 templates in an average of 0 seconds. It exceeded the lower bound by an average of 8.248274941188159%.
+Bin Packer (Prim) (Level 3) fit 200 patterns on an average of 131.82 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.485873969807588%.
+Bin Packer (fifo) (Level 0) fit 200 patterns on an average of 131.94 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.585553731205368%.
+Bin Packer (Floyd) (Level 0) fit 200 patterns on an average of 131.85 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.512562871752538%.
+Bin Packer (Empty Space) (Level 0) fit 200 patterns on an average of 131.85 templates in an average of 0 seconds. It exceeded the lower bound by an average of 5.5132030247542305%.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

@@ -1,3 +1,6 @@
+.DS_Store
+Metrics/
+
 # Compiled class file
 *.class
 
